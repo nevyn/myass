@@ -1,2 +1,4 @@
 .DS_Store
 build
+Myass.xcodeproj/*.mode2v3
+Myass.xcodeproj/*.pbxuser
